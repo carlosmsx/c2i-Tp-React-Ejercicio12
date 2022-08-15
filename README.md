@@ -7,12 +7,12 @@ Permite seleccionar una categoría de noticias y a continuación se listan los p
 
 Ahora también es posible filtrar portales de noticias por país.
 
-## Bibliotecas externas
-# Para las banderitas de los países:
+# Bibliotecas externas
+## Para las banderitas de los países:
 
 npm install --save react-country-flag
 
-# React Bootstrap
+## React Bootstrap
 
 npm install react-bootstrap bootstrap
 
